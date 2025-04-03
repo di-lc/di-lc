@@ -20,11 +20,11 @@
 <br>
 
 <div>
-  <a href="https://www.diegocelestino.com" target="_blank" style="margin-right: 20px;">
+  <a href="https://www.diegocelestino.com" target="_blank">
     <img src="https://i.imgur.com/ZEGZPuO.png" alt="Diego Celestino Logo" height="40"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/diego-celestino" target="_blank" style="margin-right: 20px;">
+  <a href="https://www.linkedin.com/in/diego-celestino" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
